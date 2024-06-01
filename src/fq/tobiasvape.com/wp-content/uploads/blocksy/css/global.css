@@ -367,7 +367,7 @@
 }
 
 [data-footer*="type-1"] .ct-footer {
-    background-color: var(--theme-palette-color-7);
+    background-color: #212121;
 }
 
 [data-footer*="type-1"] footer.ct-container {
