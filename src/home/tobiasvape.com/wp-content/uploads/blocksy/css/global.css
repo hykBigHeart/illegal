@@ -322,8 +322,8 @@
     --widgets-gap: 30px;
     --vertical-alignment: flex-start;
     --theme-border: none;
-    --theme-border-top: 1px dashed rgba(222, 222, 222, 0.5);
-    --theme-border-bottom: 1px dashed rgba(222, 222, 222, 0.5);
+    /* --theme-border-top: 1px dashed rgba(222, 222, 222, 0.5); */
+    /* --theme-border-bottom: 1px dashed rgba(222, 222, 222, 0.5); */
     --grid-template-columns: repeat(3, 1fr);
 }
 
